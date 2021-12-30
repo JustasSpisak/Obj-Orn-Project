@@ -1,11 +1,12 @@
-package Project;
+package project;
 
-public class Hellogithubtest {
+public class hellotest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-			
-		System.out.println("yoyoyo");
+
+		
+			System.out.println("yoyoyo");
 	}
 
 }
